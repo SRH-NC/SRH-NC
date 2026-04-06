@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SRH-NC
 - I’m interested in Agentic AI. 
-- I’m currently working on GenAI projects for healthcare. 
+- I’m currently working on using agents for healthcare administration applications. 
 - I’m looking to collaborate on healthcare related projects.  
 - How to reach me sean.harrison@acentra.com or on LinkedIn https://www.linkedin.com/in/harrisonsean/
 
